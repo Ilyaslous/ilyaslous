@@ -27,5 +27,3 @@ I'm always up for a collab, contribution, or conversation.
 **LinkedIn:** www.linkedin.com/in/ilyasafoulous
 **Resume** 
 
-
-> _"Strive for progress, not perfection."_  
