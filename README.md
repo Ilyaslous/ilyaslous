@@ -23,8 +23,9 @@ I’m a developer passionate about building modern web apps and using data to dr
 
 ### 📫 Let's Connect
 I'm always up for a collab, contribution, or conversation.  
-**Email:** your.email@example.com  
+**Email:** ilyas.afou@gmail.com  
 **LinkedIn:** www.linkedin.com/in/ilyasafoulous
+**Resume** 
 
 
 > _"Strive for progress, not perfection."_  
