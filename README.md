@@ -25,5 +25,5 @@ I’m a developer passionate about building modern web apps and using data to dr
 I'm always up for a collab, contribution, or conversation.  
 **Email:** ilyas.afou@gmail.com  
 **LinkedIn:** www.linkedin.com/in/ilyasafoulous
-**Resume** Resume.pdf
+**Resume** https://github.com/Ilyaslous/ilyaslous/blob/main/Resume.pdf
 
