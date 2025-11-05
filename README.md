@@ -26,5 +26,5 @@ I'm always up for a collab, contribution, or conversation.
 **Email:** ilyas.afou@gmail.com  
 **LinkedIn:** www.linkedin.com/in/ilyasafoulous
 
-**Resume:** https://github.com/Ilyaslous/ilyaslous/blob/main/Resume.pdf
+**Resume:** 
 
