@@ -6,8 +6,8 @@ I’m a developer passionate about building modern web apps and using data to dr
 ---
 
 ### 🛠 Tech I Work With
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS
-- **Backend:** ASP.NET Core, Node.js, REST APIs
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, angular
+- **Backend:** ASP.NET Core, Node.js, REST APIs, java
 - **Data Science:** Python, Pandas, SQL, Jupyter
 - **Tools:** Git, Docker, Azure, Postman, VS Code
 
